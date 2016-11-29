@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\bin\Debug\SVNScripterApplication.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\bin\Debug\SVNScripterApplication.exe
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\bin\Debug\SVNScripterApplication.pdb
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\obj\Debug\SVNScripterApplication.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\obj\Debug\SVNScripterApplication.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\obj\Debug\SVNScripterApplication.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\obj\Debug\SVNScripterApplication.exe
+c:\users\paul\documents\visual studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\obj\Debug\SVNScripterApplication.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\SVNScripterApplication\SVNScripterApplication\obj\Debug\SVNScripterApplication.Scripter.resources
